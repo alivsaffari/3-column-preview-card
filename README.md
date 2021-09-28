@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site](https://vercel.com/alivsaffari/3-column-preview-card)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-with-tailwind-css-DRif7rzez)
+- Live Site URL: [Live site](https://3-column-preview-card-hazel.vercel.app/)
 
 ## My process
 
